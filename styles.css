@@ -63,7 +63,7 @@ h1, h2, h3, h4, h5, h6 {
     font-style: normal;
     color: var(--color-secondary);
     font-weight: 200;
-    max-width: 46rem;
+    max-width: 47rem;
 }
 
 .app__title-strong {
