@@ -48,11 +48,17 @@ html {
   font-size: 10px;
 }
 
-body {
+.container {
+  display: flex;
+  flex-direction: column;
   min-height: 100vh;
   background: url("/imagens/pattern.png");
   background-size: cover;
   background-repeat: no-repeat;
+}
+
+.app {
+  flex: 1;
 }
 
 h1,
